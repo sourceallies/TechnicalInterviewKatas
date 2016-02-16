@@ -1,6 +1,6 @@
 # Technical Interviews
 
-This repository is used to hold references to materials used during technical interviews. The materials here will be updated and reveiwed quite often.
+This repository is used to hold references to materials used during technical interviews. The materials here will be updated and reveiwed quite often. Please commit after each step of the Kata in order to assist us in tracking your thought process.
 
 # Katas
 [String Calculator](http://osherove.com/tdd-kata-1/)
