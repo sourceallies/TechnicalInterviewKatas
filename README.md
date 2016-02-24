@@ -4,6 +4,8 @@ This repository is used to hold references to materials used during technical in
 
 For additional information on Code Kata's, look [Here](http://www.codekatas.org/)
 
+For additional practice, look [Here](http://www.codewars.com/)
+
 # Katas
 [String Calculator](http://osherove.com/tdd-kata-1/)
 
